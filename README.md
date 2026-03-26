@@ -1,5 +1,5 @@
-![header](Hi !.gif)
-# Hi, I'm Jocelyn 👋
+![header](banner.gif)
+
 
 ## About
 
