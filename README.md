@@ -45,5 +45,5 @@ maybe the chapter that you're so afraid of is actually going to be your favorite
 
 ## Connect with Me
 
-- 📸 Instagram: https://instagram.com/jocelynnn___
+- 📸 Instagram: [@jocelynnn___](https://www.instagram.com/jocelynnn___/)  
 - ✉️ Email: mailto:jocelynkuliah@gmail.com
