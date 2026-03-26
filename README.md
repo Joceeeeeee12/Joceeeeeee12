@@ -43,6 +43,11 @@ Still learning, still growing 🌱
 - 📸 Instagram: [@jocelynnn___](https://www.instagram.com/jocelynnn___/)  
 - ✉️ Email: mailto:jocelynkuliah@gmail.com
 
+## Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40jocelynnn___-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jocelynnn___/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&logoColor=white)](mailto:EMAIL_KAMU)
 <p align="left">
   <a href="https://www.instagram.com/jocelynnn___/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
