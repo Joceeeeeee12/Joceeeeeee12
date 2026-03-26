@@ -1,4 +1,4 @@
-![header][(https://canva.link/oemwpyg6w02sihx)]
+![header][(Hi! .gif)]
 # Hi, I'm Jocelyn 👋
 
 ## About
