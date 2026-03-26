@@ -37,7 +37,7 @@ Still learning, still growing 🌱
 ![GitHub Streak](https://streak-stats.demolab.com?user=Joceeeeeee12&theme=tokyonight)
 
 ---
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jocelynnn___/)
 ## Connect with Me
 
 - 📸 Instagram: [@jocelynnn___](https://www.instagram.com/jocelynnn___/)  
