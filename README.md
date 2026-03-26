@@ -40,7 +40,7 @@ Still learning, still growing 🌱
 
 ## Connect with Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jocelynnn___/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jocelynnn___/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:EMAIL_KAMU)
 
 ## Quotes
