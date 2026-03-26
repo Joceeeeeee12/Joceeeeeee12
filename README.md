@@ -37,12 +37,11 @@ Still learning, still growing 🌱
 ![GitHub Streak](https://streak-stats.demolab.com?user=Joceeeeeee12&theme=tokyonight)
 
 ---
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jocelynnn___/)
+
 ## Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40jocelynnn___-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jocelynnn___/)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&logoColor=white)](mailto:jocelynkuliah@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jocelynnn___/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:EMAIL_KAMU)
 
 ## Quotes
 
