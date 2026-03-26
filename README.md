@@ -2,10 +2,10 @@
 
 ## About
 
-🎓 Information Systems student based in Batam, Indonesia 
-🎨 More into design, but currently diving into tech and AI 
-🤖 Currently learning Artificial Intelligence and exploring its real-world applications 
-💻 Passionate about technology, especially how it can solve problems (just like math!)
+- 🎓 Information Systems student based in Batam, Indonesia 
+- 🎨 More into design, but currently diving into tech and AI 
+- 🤖 Currently learning Artificial Intelligence and exploring its real-world applications 
+- 💻 Passionate about technology, especially how it can solve problems (just like math!)
 
 
 Still learning, still growing 🌱
@@ -33,17 +33,17 @@ Still learning, still growing 🌱
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joceeeeeee12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joceeeeeee12&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Joceeeeeee12&theme=tokyonight)
 
 ---
 
-## Fun Fact
+## Quotes
 
-💡 I enjoy coding because it feels like solving math problems — challenging but satisfying!
+maybe the chapter that you're so afraid of is actually going to be your favorite ♡
 
 ---
 
 ## Connect with Me
 
-- GitHub: https://github.com/Joceeeeeee12
+- 📸 Instagram: https://instagram.com/jocelynnn___
+- ✉️ Email: mailto:jocelynkuliah@gmail.com
