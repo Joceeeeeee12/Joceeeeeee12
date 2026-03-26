@@ -38,13 +38,24 @@ Still learning, still growing 🌱
 
 ---
 
+## Connect with Me
+
+- 📸 Instagram: [@jocelynnn___](https://www.instagram.com/jocelynnn___/)  
+- ✉️ Email: mailto:jocelynkuliah@gmail.com
+
+<p align="left">
+  <a href="https://www.instagram.com/jocelynnn___/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:jocelynkuliah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ## Quotes
 
 maybe the chapter that you're so afraid of is actually going to be your favorite ♡
 
 ---
 
-## Connect with Me
 
-- 📸 Instagram: [@jocelynnn___](https://www.instagram.com/jocelynnn___/)  
-- ✉️ Email: mailto:jocelynkuliah@gmail.com
