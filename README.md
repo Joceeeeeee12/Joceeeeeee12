@@ -1,4 +1,4 @@
-![header][(Hi! .gif)]
+![header](Hi! .gif)
 # Hi, I'm Jocelyn 👋
 
 ## About
